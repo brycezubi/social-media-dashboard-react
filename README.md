@@ -25,6 +25,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Dark Mode
 - Ligth Mode
 - LocalStorage
+- Gh pages
 
 ### Screenshot
 
